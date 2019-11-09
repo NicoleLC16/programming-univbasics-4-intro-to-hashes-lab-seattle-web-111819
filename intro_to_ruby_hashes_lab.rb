@@ -1,13 +1,13 @@
 def new_hash
-  hash = {}
+  hash = {};
 end
 
 def my_hash
-  nail_polish = {essie: "Bahama Mama"}
+  nail_polish = {essie: "Bahama Mama"};
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  hash {:name => "Grace Hopper"}
 end
 
 def id_generator
