@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  nails = {essie: 
+  nail_polish = {essie: "Bahama Mama"}
 end
 
 def pioneer
