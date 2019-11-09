@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  nails = {
+  nails = {essie: 
 end
 
 def pioneer
